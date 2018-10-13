@@ -72,12 +72,12 @@ Summary of the resulting data fields created in 'tidydata.txt'.
 
 ## Activity lables
 
-* 'WALKING'
-* 'WALKING_UPSTAIRS'
-* 'WALKING_DOWNSTAIRS'
-* 'SITTING'
-* 'STANDING'
-* 'LAYING'
+* 'WALKING' (Value One)
+* 'WALKING_UPSTAIRS' (Value Two)
+* 'WALKING_DOWNSTAIRS' (Value Three)
+* 'SITTING' (Value Four)
+* 'STANDING' (Value Five)
+* 'LAYING' (Value Six)
 
 
 
