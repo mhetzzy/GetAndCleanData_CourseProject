@@ -82,7 +82,8 @@ Values:
   * LAYING
  
  ### Subject ID 
-  *factor Values 1-30
+  * factor 
+  Values: 1-30
   
   ### Quantities for Mean & std dev 
   1. `tBodyAccMeanX` Average Body Acc x-axis
