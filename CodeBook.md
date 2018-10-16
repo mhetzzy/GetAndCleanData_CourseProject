@@ -72,12 +72,14 @@ download.file(fileURL, filename, method="curl")
 ## Quantities reported in tidydata.txt
 
 ### Activity Types
-  *WALKING
-  *WALKING_UPSTAIRS
-  *WALKING_DOWNSTAIRS
-  *SITTING
-  *STANDING
-  *LAYING
+Values:
+
+  * WALKING
+  * WALKING_UPSTAIRS
+  * WALKING_DOWNSTAIRS
+  * SITTING
+  * STANDING
+  * LAYING
  
  ### Subject ID 
   *factor Values 1-30
