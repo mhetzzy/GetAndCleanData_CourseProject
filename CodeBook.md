@@ -93,5 +93,22 @@ Values:
   5. `tBodyAccStdY` Ave Std Dev Body y-axis
   6. `tBodyAccStdZ` Ave Std Dev Body z -axis
   
+  **The quantities continue with the six specific corresponding lables above for the below quantitites:
+  `tGravity` 
+  `tBodyAccJerk`
+  `tBodyGyro`
+  `tBodyGyroJerk`
+  `tBodyAccMag`
+  `tBodyGyroMag`
+  `fBodyAcc`
+  `fBodyAccMean`
+  `fBodyAccJerk`
+  `fBodyGyro`
+  `fBodyAccMag`
+  `fBodyBodyAccJerk`
+  `fBodyBodyGyroMag`
+  `fBodyBodyGyroJerkMag`
+  
+  
   
   
