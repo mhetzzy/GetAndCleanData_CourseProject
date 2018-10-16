@@ -3,8 +3,10 @@
 
 Summary of the resulting data fields created in `tidydata.txt`
 
+## DATA
 
-##IDs
+The data was acquired from the data link provided:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 
 
 ## Measurements
