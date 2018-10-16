@@ -65,7 +65,30 @@ download.file(fileURL, filename, method="curl")
 * allData$subject <- as.factor(allData$subject)
 * allData.melted <- melt(allData, id = c("subject", "activity"))
 * allData.mean <- dcast(allData.melted, subject + activity ~ variable, mean)
-* write.table(allData.mean, "tidy.txt", row.names = FALSE, quote = FALSE)
+* write.table(allData.mean, "tidydata.txt", row.names = FALSE, quote = FALSE)
 
 ...
 
+## Quantities reported in tidydata.txt
+
+### Activity Types
+  *WALKING
+  *WALKING_UPSTAIRS
+  *WALKING_DOWNSTAIRS
+  *SITTING
+  *STANDING
+  *LAYING
+ 
+ ### Subject ID 
+  *factor Values 1-30
+  
+  ### Quantities for Mean & std dev 
+  1. `tBodyAccMeanX` Average Body Acc x-axis
+  2. `tBodyAccMeanY` Average Body Acc y-axis
+  3. `tBodyAccMeanZ` Average Body Acc z-axis
+  4. `tBodyAccStdX` Ave Std Dev Body x-axis
+  5. `tBodyAccStdY` Ave Std Dev Body y-axis
+  6. `tBodyAccStdZ` Ave Std Dev Body z -axis
+  
+  
+  
