@@ -82,8 +82,7 @@ Values:
   * LAYING
  
  ### Subject ID 
-  "factor"
-  
+  factor
   Values: 1-30
   
   ### Quantities for Mean & std dev 
